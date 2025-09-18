@@ -1,0 +1,10 @@
+git status
+git branch
+git checkout -b "JH_branch"
+git merge main
+nano "Group Project.txt
+JH then added his text and saved changes
+git status
+git add --all
+git commit -m "JH adding his info to group doc, adding his commands used txt"
+git push origin JH_branch
