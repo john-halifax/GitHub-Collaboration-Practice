@@ -1,0 +1,9 @@
+git status
+git branch
+git checkout -b "MY_branch"
+git merge main
+nano "Group Project.txt
+git status
+git add --all
+git commit -m "MY adding his info to group doc, adding his commands txt"
+git push origin MY_branch
