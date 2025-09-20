@@ -1,0 +1,12 @@
+cd SOCIOL273_GIT
+git clone https://github.com/john-halifax/GitHub-Collaboration-Practice.git
+cd GitHub-Collaboration-Practice
+git status
+git branch
+git checkout -b "JI_branch"
+git merge main
+nano "Group Project.txt"
+git status
+git add --all
+git commit -m "JI adding her branch info to group doc, adding her commands used txt"
+git push origin JI_branch
