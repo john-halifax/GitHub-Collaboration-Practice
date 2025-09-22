@@ -1,0 +1,12 @@
+git clone https://github.com/john-halifax/GitHub-Collaboration-Practice.git
+cd GitHub-Collboration-Practice
+git status
+git branch
+git checkout -b "vo_branch"
+git merge main
+nano "Group Project.txt"
+nano "vo_commands.txt"
+git status
+git add --all
+git commit -m "Vo adding to group doc and recording commands used"
+git push origin vo_branch
